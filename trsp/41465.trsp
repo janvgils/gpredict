@@ -1,0 +1,8 @@
+
+[Transmits on two channesls simultanously. Most likely Doka-B modulation]
+DOWN_LOW=435315000
+MODE=FM
+
+[Transmits on two channesls simultanously. Most likely Doka-B modulation]
+DOWN_LOW=435365000
+MODE=FM

@@ -1,0 +1,18 @@
+
+[Mother CW Telemetry]
+DOWN_LOW=437245000
+MODE=CW
+
+[Mother AFSK Telemetry]
+DOWN_LOW=437405000
+MODE=AFSK
+BAUD=1200
+
+[Daughter CW Telemetry]
+DOWN_LOW=437254000
+MODE=CW
+
+[Daughter AFSK Telemetry]
+DOWN_LOW=437425000
+MODE=AFSK
+BAUD=1200

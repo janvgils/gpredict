@@ -1,0 +1,14 @@
+
+[Mode U CW Beacon]
+DOWN_LOW=437485000
+MODE=CW
+
+[CW TLM Beacon (drifted)]
+DOWN_LOW=437503000
+MODE=FM
+BAUD=20
+
+[FM-CW TLM beacon  (drifted)]
+DOWN_LOW=437487500
+MODE=FM
+BAUD=20

@@ -1,0 +1,5 @@
+
+[UHF Beacon and Telemetry]
+DOWN_LOW=436950000
+MODE=BPSK
+BAUD=9600

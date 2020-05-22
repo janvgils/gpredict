@@ -1,0 +1,4 @@
+#LES-1
+[Beacon]
+DOWN_LOW=237000000
+MODE=CW

@@ -1,0 +1,5 @@
+
+[INS-1C telemetry downlink]
+DOWN_LOW=435080000
+MODE=FSK
+BAUD=1200

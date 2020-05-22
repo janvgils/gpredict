@@ -1,0 +1,5 @@
+
+[S-Band downlink]
+DOWN_LOW=2401835000
+MODE=MSK
+BAUD=1200

@@ -1,0 +1,8 @@
+
+[Upper side band (drifting)]
+DOWN_LOW=136658500
+MODE=USB
+
+[TLM]
+DOWN_LOW=136650000
+MODE=FMN

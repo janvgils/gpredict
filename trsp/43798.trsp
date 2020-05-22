@@ -1,0 +1,9 @@
+
+[Packet data relay]
+DOWN_LOW=437175000
+MODE=FSK
+BAUD=1200
+
+[Transmitter]
+DOWN_LOW=2406000000
+MODE=FM

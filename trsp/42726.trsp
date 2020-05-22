@@ -1,0 +1,9 @@
+
+[Telemetry]
+DOWN_LOW=435900000
+MODE=FSK
+BAUD=9600
+
+[S-Band downlink]
+DOWN_LOW=2405000000
+MODE=FM

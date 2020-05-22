@@ -1,0 +1,12 @@
+
+[Mean frequency of Rocket Body Telemetries]
+DOWN_LOW=437529000
+MODE=FM
+
+[Rocket Body Telemetry]
+DOWN_LOW=437549000
+MODE=FM
+
+[Rocket Body Telemetry]
+DOWN_LOW=437509000
+MODE=FM
