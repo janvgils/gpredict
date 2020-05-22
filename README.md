@@ -4,6 +4,4 @@
 
 ## trsp
 
-[GPredict Frequency control files](trsp/)
-
-The trsp directory contains Satellite frequency control files.
+[GPredict Frequency control files](trsp/) this contains the frequency control files.
